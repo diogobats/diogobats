@@ -2,7 +2,7 @@
 
 - 🙌 - Futuro desenvolvedor Front-End
 - 🤘 - Estudando na ALURA CURSOS
-- 👩‍💻 - Pós Graduação em Engenharia de Softwere (CURSANDO)
+- 👩‍💻 - Pós Graduação em Ciências de Dados e Big Data Analytics (CURSANDO)
 - 👨‍🎓 - Pós Graduação em Gestão Empresarial
 - 👨‍🎓 - Graduado em Gestão Financeira
 - 👔 - Ex Bancario 
