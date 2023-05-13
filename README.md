@@ -5,7 +5,7 @@
 - 👩‍💻 - Pós Graduação em Ciências de Dados e Big Data Analytics (CURSANDO)
 - 👨‍🎓 - Pós Graduação em Gestão Empresarial
 - 👨‍🎓 - Graduado em Gestão Financeira
-- 👔 - Ex Bancario 
+- 👔 - Ex Bancário 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiogoBatista)](https://github.com/anuraghazra/github-readme-stats)
 
